@@ -1,1 +1,1 @@
-# Programsko-in-enjerstvo---projekt
+# Programsko-inženjerstvo-projekt
